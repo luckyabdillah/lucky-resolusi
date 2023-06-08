@@ -1,0 +1,2 @@
+# lucky-resolusi
+Resolusi Lucky
