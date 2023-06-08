@@ -1,0 +1,4 @@
+Resolusi Lucky ke depan
+- Mempelajari dan memahami secara mendalam HTML, CSS, dan JavaScript
+- Terlatih menggunakan CSS Framework
+- Mendalami library Javascript, terutama ReactJS
