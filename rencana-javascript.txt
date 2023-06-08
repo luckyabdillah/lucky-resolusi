@@ -2,3 +2,5 @@ Rencana javascript
 - Belajar dasar-dasar javascript
 - Mendalami Document Object Model (DOM) sebagai implementasi
 - Mempelajari framework dan library javascript
+  * ReactJS
+  * NodeJS
