@@ -2,5 +2,4 @@ Resolusi Lucky ke depan
 - Mempelajari dan memahami secara mendalam HTML, CSS, dan JavaScript
 - Terlatih menggunakan CSS Framework
 - Mendalami library Javascript, terutama ReactJS
-- Mengulang materi PHP yang pernah dipelajari dahulu
-- Mepelajari ulang PHP Framework Laravel
+- Mepelajari ulang PHP dan frameworknya, yaitu Framework Laravel
